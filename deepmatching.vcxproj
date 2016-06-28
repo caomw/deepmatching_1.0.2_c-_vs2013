@@ -55,7 +55,7 @@
       <TargetMachine>MachineX86</TargetMachine>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <SubSystem>Console</SubSystem>
-      <AdditionalLibraryDirectories>$(SolutionDir)\zlib128-dll\lib;C:\Program Files (x86)\CLAPACK\lib;$(SolutionDir)\opencv\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(SolutionDir)\zlib128-dll\lib;$(SolutionDir)\clapack;$(SolutionDir)\opencv\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>opencv_imgproc249d.lib;opencv_highgui249d.lib;opencv_core249d.lib;zdll.lib;blasd.lib;libf2cd.lib;lapackd.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <HeapCommitSize>
       </HeapCommitSize>
