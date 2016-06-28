@@ -1,5 +1,5 @@
-The implementation had minor updates to work with visual studio 2013, opencv 2.4.9 and c++11 threads instead of pthreads. The minor updates were done by Mostafa Izz but the code is still the same as downloaded. 
-izz.mostafa@gmail.com
+The implementation had minor updates to work with visual studio 2013, opencv 2.4.9 and c++11 threads instead of pthreads. The minor updates were done by Mostafa Mohamed Izz but the code is still the same as downloaded from http://lear.inrialpes.fr/src/deepmatching/. 
+email: izz.mostafa@gmail.com
 
 Implementation of the Deep Matching algorithm, published at ICCV 2013 in
 "DeepFlow: Large displacement optical flow with deep matching" by Philippe 
